@@ -1,13 +1,13 @@
 # Data Visualization.
 
  
-![อุณหภูมิ](Temperature.png)
+![Example Image](Temperature.png)
 
-![ความชื้น](Humidity.png)
+![Example Image](Humidity.png)
 
-![แสง](Luminosity.png)
+![Example Image](Luminosity.png)
 
-![ความดัน](Pressure.png)
+![Example Image](Pressure.png)
 
 ![](.png)
 
