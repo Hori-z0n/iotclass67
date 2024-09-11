@@ -9,15 +9,16 @@
 
 ![Example Image](Pressure.png)
 
-![](.png)
+![Example Image](.png)
 
-![](Create_dashboard.png)
+![Example Image](Create_dashboard.png)
 
-![](Create_dashboard2.png)
+![Example Image](Create_dashboard2.png)
 
-![](Create.png)
+![Example Image](Create.png)
 
-![](Create2.png)
-![](.png)
-![](.png)
+![Example Image](Create2.png)
+
+
+
 
