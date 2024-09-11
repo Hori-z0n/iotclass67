@@ -34,6 +34,7 @@ iot_senser_10 มาจาก Cucumber RS ตัวที่ 8\
 
 ![Example Image](Pressure.png)
 
+นำเซ็นเซอร์ทั้งหมดที่รับมาได้ไปวางในรูป
 ![Example Image](spaceship.png)
 
 ![Example Image](Create2.png)
