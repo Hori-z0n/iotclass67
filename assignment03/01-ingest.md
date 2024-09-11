@@ -11,6 +11,3 @@
 ![Example Image](docker.png)
 
 ![Example Image](docker2.png)
-
-
-
